@@ -1,6 +1,6 @@
 # Hello World 🌏
 
-Say `Hello World` in Multiple Programming Languages
+Say `Hello World` in Multiple Programming Languages.
 
 <div align="center">
     <a href="https://github.com/truonghienminh/Full-House">
